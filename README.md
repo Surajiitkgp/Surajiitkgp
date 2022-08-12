@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://surajiitkgp.io)
 <h1 align="center">Hi 👋, I'm Suraj Bhute</h1>
 <h3 align="center">I am AI & Healthcare enthusiast. I love working on AI. Current: Masters in Medical Imaging & Informatics @ IIT Kharagpur.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajiitkgp&label=Profile%20views&color=0e75b6&style=flat" alt="surajiitkgp" /> </p>
 

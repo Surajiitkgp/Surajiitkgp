@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Algorithms and Data Structure, Probability and Statistics, Data Analytics**
 
-- 👯 I’m looking to collaborate on **Open Hackathons and competitions, New projects on AI in healthcare**
+- 👯 I’m looking to collaborate on **Open Hackathons and competitions, New projects on AI**
 
-- 💬 Ask me about **C++, Machine Learning and Deep Learning**
+- 💬 Ask me about **python, C++, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **surajrbhute123@gmail.com**
 
